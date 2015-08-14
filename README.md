@@ -10,6 +10,3 @@ npm install -g gulp
 gulp production
 #start
 open in browser index.html
-
-
-cat /proc/sys/fs/inotify/max_user_watches
